@@ -33,10 +33,10 @@
 
 </p>
 
-## 🧠 LeetCode Stats
+## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcode.com/u/Alisha_csRout/" />
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 
