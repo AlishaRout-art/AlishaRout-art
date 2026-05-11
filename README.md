@@ -1,9 +1,6 @@
 ## Hi there 👋
-## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/AlishaRout-art/AlishaRout-art/blob/output/github-contribution-grid-snake.svg)
-<!--
-**AlishaRout-art/AlishaRout-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![snake gif](https://github.com/AlishaRout-art/AlishaRout-art/blob/output/github-contribution-grid-snake.svg)
 
 Here are some ideas to get you started:
 
