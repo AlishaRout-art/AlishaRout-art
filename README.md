@@ -33,38 +33,10 @@
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlishaRout-art&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishaRout-art&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaRout-art&layout=compact&theme=tokyonight" alt="languages" />
-</p>
-
----
-
 ## 🧠 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcode.com/u/Alisha_csRout/" />
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlishaRout-art/AlishaRout-art/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
-
-![Alisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlishaRout-art&show_icons=true&theme=tokyonight)
-
-![snake gif](https://github.com/AlishaRout-art/AlishaRout-art/blob/output/github-contribution-grid-snake.svg)
 
