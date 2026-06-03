@@ -26,13 +26,6 @@ Computer Science Engineering Student | Machine Learning & Data Enthusiast
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql,javascript" />
-</p>
 
 ### Machine Learning & Data
 
@@ -45,40 +38,8 @@ Computer Science Engineering Student | Machine Learning & Data Enthusiast
 - Matplotlib
 - Seaborn
 
-### Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,firebase" />
-</p>
 
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlishaRout-art&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaRout-art&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishaRout-art&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/AlishaRout-art">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
 
 ---
 
