@@ -12,37 +12,47 @@ Computer Science Engineering Student | Machine Learning & Data Enthusiast
 
 ## 👩‍💻 About Me
 
-🎓 Pursuing B.Tech in Computer Science & Engineering at IGIT Sarang
+🎓 B.Tech Computer Science & Engineering student at IGIT Sarang
 
 💡 Passionate about Machine Learning, Data Engineering, and Software Development
 
-🤖 Exploring Large Language Models (LLMs), Hugging Face, and AI-powered applications
+🤖 Exploring Large Language Models (LLMs), Hugging Face, and modern AI technologies
 
-📊 Interested in transforming data into meaningful insights and scalable solutions
+📊 Interested in building data-driven solutions that transform raw data into actionable insights
 
 🧠 Strong foundation in Data Structures, Algorithms, and Problem Solving
 
-🚀 Continuously building projects and expanding my technical expertise
+🚀 Continuously learning, building projects, and expanding my technical expertise
 
 ---
 
+## 🛠️ Skills & Technologies
 
-### Machine Learning & Data
+### Machine Learning & AI
 
 - Machine Learning
 - Large Language Models (LLMs)
 - Hugging Face
+- Prompt Engineering
+
+### Data & Analytics
+
 - Pandas
 - NumPy
 - Scikit-Learn
 - Matplotlib
 - Seaborn
+- SQL
 
+### Programming
 
-
-
+- Python
+- Java
+- C
+- C++
+- Dart
 ---
 
 <p align="center">
-  <i>"Learning, Building, and Growing Through Technology."</i>
+  <i>"Turning data into insights and ideas into solutions."</i>
 </p>
