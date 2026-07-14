@@ -1,34 +1,42 @@
 <h1 align="center">Hi 👋, I'm Alisha Rout</h1>
 
 <h3 align="center">
-Computer Science Engineering Student • AI & Machine Learning Enthusiast • Software Developer
+AI & Machine Learning Enthusiast • Computer Science Student • Software Developer
 </h3>
 
 <p align="center">
-Building intelligent applications with AI, Machine Learning, Data Engineering, and Modern Software Development.
+Building intelligent software using AI, Machine Learning, LLMs, and Data Engineering.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AlishaRout-art&label=Profile%20Views&color=0e75b6&style=flat" />
+<a href="https://github.com/AlishaRout-art">
+<img src="https://komarev.com/ghpvc/?username=AlishaRout-art&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
+
+<a href="https://leetcode.com/u/Alisha_csRout/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alisha-rout-985a18421/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/>
+</a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 🚀 About Me
 
 🎓 B.Tech Computer Science & Engineering student at **IGIT Sarang**
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Data Engineering, and Software Development**
+💡 Passionate about solving real-world problems through **Artificial Intelligence, Machine Learning, and Software Engineering**
 
 🤖 Currently exploring
 
 - Large Language Models (LLMs)
+- AI Agents
 - LangChain & LangGraph
 - Retrieval-Augmented Generation (RAG)
-- Hugging Face
-- AI Agents
-
-📊 Interested in designing scalable data-driven applications that solve real-world problems.
+- Hugging Face Ecosystem
 
 💻 Strong foundation in
 
@@ -37,61 +45,88 @@ Building intelligent applications with AI, Machine Learning, Data Engineering, a
 - Database Management Systems
 - Software Engineering
 
-🚀 I enjoy learning new technologies and building practical projects that combine AI with software engineering.
+🌱 Continuously learning and building scalable AI-powered applications.
 
 ---
 
 # 🛠️ Tech Stack
 
-## Programming Languages
+### 👨‍💻 Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart"/>
 
-## AI • Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7B68EE?style=for-the-badge)
+</p>
 
 ---
 
-## Data Science
+### 🤖 AI • Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+<img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## Development
+### 📊 Data Science
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ⚙️ Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,fastapi,firebase,flutter,vscode"/>
+
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
-- Advanced Machine Learning
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- LangGraph
-- Data Engineering
-- System Design
+- 🧠 AI Agents
+- 🤖 LangGraph
+- 📚 Advanced Machine Learning
+- ⚡ Data Engineering
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🏗️ System Design
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 **RAG Queue** | AI-powered Retrieval-Augmented Generation system |
+| 📄 **RAGDoc AI** | Chat with PDF documents using LLMs |
+| ⚡ **DevAgent CLI** | AI Developer Assistant for the Terminal |
+| 🖥️ **Ollama FastAPI Wrapper** | REST API for local LLM deployment |
+| 🎬 **Netflix Clone** | React + Firebase Streaming Platform |
 
 ---
 
@@ -115,14 +150,26 @@ Building intelligent applications with AI, Machine Learning, Data Engineering, a
 
 # 🏆 Coding Profiles
 
-- 💻 LeetCode: https://leetcode.com/u/Alisha_csRout/
-- 🌐 GitHub: https://github.com/AlishaRout-art
-- 💼 LinkedIn: https://www.linkedin.com/in/alisha-rout-985a18421/
+<p align="center">
+
+<a href="https://leetcode.com/u/Alisha_csRout/">
+<img src="https://img.shields.io/badge/LeetCode-AlishaRout-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/AlishaRout-art">
+<img src="https://img.shields.io/badge/GitHub-AlishaRout-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alisha-rout-985a18421/">
+<img src="https://img.shields.io/badge/LinkedIn-AlishaRout-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
 <h3 align="center">
 
-"Building intelligent software that transforms ideas into impactful solutions."
+💡 *"Building intelligent systems that transform data into impactful solutions."*
 
 </h3>
