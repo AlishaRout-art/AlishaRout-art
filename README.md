@@ -118,35 +118,7 @@ Building intelligent software using AI, Machine Learning, LLMs, and Data Enginee
 
 ---
 
-# 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🤖 **RAG Queue** | AI-powered Retrieval-Augmented Generation system |
-| 📄 **RAGDoc AI** | Chat with PDF documents using LLMs |
-| ⚡ **DevAgent CLI** | AI Developer Assistant for the Terminal |
-| 🖥️ **Ollama FastAPI Wrapper** | REST API for local LLM deployment |
-| 🎬 **Netflix Clone** | React + Firebase Streaming Platform |
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlishaRout-art&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaRout-art&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishaRout-art&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🏆 Coding Profiles
 
