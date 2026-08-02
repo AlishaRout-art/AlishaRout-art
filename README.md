@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alisha Rout</h1>
 
 <h3 align="center">
-AI & Machine Learning Enthusiast • Computer Science Student • Software Developer
+AI & Machine Learning Enthusiast • Computer Science Student 
 </h3>
 
 <p align="center">
